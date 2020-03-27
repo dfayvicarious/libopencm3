@@ -1,12 +1,12 @@
 /** @defgroup rtc_defines RTC Defines
 
-@brief <b>Defined Constants and Types for the STM32F7xxx RTC</b>
+@brief <b>Defined Constants and Types for the STM32F4xx RTC</b>
 
-@ingroup STM32F7xxx_defines
+@ingroup STM32F4xx_defines
 
 @version 1.0.0
 
-@date 26 March 2020
+@date 5 December 2012
 
 LGPL License Terms @ref lgpl_license
  */
